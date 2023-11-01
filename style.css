@@ -39,7 +39,7 @@ body {
 .earth {
     width: 30px;
     height: 30px;
-    background-image: linear-gradient(to right, #010416ea, #fe190056), url('earth.png');
+    background-image: linear-gradient(to right, #010416ea, #fe190056), url('earth.jpeg');
     background-position: center;
     background-size: cover;
     border-radius: 50%;
@@ -60,7 +60,7 @@ body {
 .moon {
     width: 15px;
     height: 15px;
-    background-image: linear-gradient(to right, #fe190056, #fe190000), url('580b585b2edbce24c47b270b.png');
+    background-image: linear-gradient(to right, #fe190056, #fe190000), url('moon.png');
     background-position: center;
     border-radius: 50%;
     position: relative;
