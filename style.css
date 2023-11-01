@@ -3,6 +3,7 @@ body {
     /* animation: scaller 30s linear infinite; */
     overflow: hidden;
     background-size: 40%;
+    background-color: black;
 }
 
 .sun {
